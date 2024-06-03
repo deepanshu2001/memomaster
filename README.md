@@ -1,0 +1,1 @@
+It is a journal website for personal use. You can add, edit or remove journals. I have used EJS templating along with html, bootstrap and css for the front end. Used node js with express server for backend. I have incorporated the website with a database using postgres so that user can store data.
